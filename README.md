@@ -55,7 +55,7 @@ The app follows a clean architecture pattern with:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/novashop-flutter.git
+   git clone https://github.com/hassanmahgoub/novashop-flutter.git
    cd novashop-flutter
    ```
 
@@ -104,6 +104,7 @@ This project is licensed under the MIT License.
 ## 👨‍💻 **Author**
 
 **Hassan Mohammed**
+- GitHub: [@hassanmahgoub](https://github.com/hassanmahgoub)
 
 ## 🙏 **Acknowledgments**
 
